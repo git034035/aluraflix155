@@ -1,0 +1,21 @@
+body {
+    color: rgb(230, 212, 212);
+    background: rgb(12, 12, 12);
+    margin: 0px;
+    font-family: "Abril Fatface", serif;
+}
+
+header {
+    border-bottom: solid 2px rgb(246, 241, 241);
+    padding: 20px;
+    font-size: 40px;
+    color:rgb(203, 217, 205);
+}
+section{
+    background: rgb(151, 63, 63);  
+    display: flex;
+}
+h1{
+    font-size: 35px;
+
+}
